@@ -1,20 +1,26 @@
 
 # Private Beta 
 <br>
-<span class="lou-y">(Under construction)</span>
+<span class="lou-y">(07/02/20: Under construction)</span>
+
+## Note
+- This project had a Discovery phase in October- December 2019. There has been **no Alpha phase**. We started directly on a private Beta phase in January 2020.
+- There is an interim partnership at the moment: The South of Scotland Economic Partnership (SoSEP), established in January 2018 to respond to the economic needs and opportunities of the South of Scotland in advance of the establishment of the new Agency in April 2020.
+- [SoSEP has a live website](https://www.sosep.co.uk/site/index.php)
+
 
 
 ## Vision
 
-South of Scotland Enterprise (SOSE) is a new Agency that will **launch on 1st April.** 
+_South of Scotland Enterprise (SOSE) is a new Agency that will **launch on 1st April.**_
 
-It will maximise the area’s contribution to Scotland’s inclusive growth, supporting a diverse and resilient economy. Its objectives include:
-- Sustaining and growing communities by joining up economic and community support
-- Capitalising on people and resources by developing skills, promoting assets and resources and maximising the impact of investment in the area
+_It will maximise the area’s contribution to Scotland’s inclusive growth, supporting a diverse and resilient economy. Its objectives include:_
+- _Sustaining and growing communities by joining up economic and community support_
+- _Capitalising on people and resources by developing skills, promoting assets and resources and maximising the impact of investment in the area_
 
-This page is about the design of a corporate website to raise awareness of SOSE and support the Agency’s objectives.
+_This page is about the design of a corporate website to raise awareness of SOSE and support the Agency’s objectives._
 
-The new corporate website will supplement Find Business Support (FBS), existing partner websites and other Scottish websites.
+_The new corporate website will supplement Find Business Support (FBS), existing partner websites and other Scottish websites._
 
 ## Beta Assessment Artefacts
 
