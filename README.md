@@ -11,13 +11,13 @@ _The new corporate website will supplement [Find Business Support](https://www.f
 
 
 ## Note
-- TDiscovery phase in October- December 2019
+- Discovery phase in October- December 2019
 - There was **no Alpha phase**. We started directly on a private Beta phase in January 2020.
-- There is an interim partnership at the moment: The **South of Scotland Economic Partnership (SoSEP)** [with a live website](https://www.sosep.co.uk/site/index.php)
+- There is an interim partnership: the **South of Scotland Economic Partnership (SoSEP)** [with a live website](https://www.sosep.co.uk/site/index.php)
 
 ## Beta Assessment Artefacts
 
-[**Research timeline**](timeline) covers both Discovery and Beta phase
+[**Research timeline**](timeline) covers both Discovery and Beta phase (under construction)
 
 
 ### Research
