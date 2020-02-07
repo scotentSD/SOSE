@@ -15,7 +15,8 @@ The new corporate website will supplement Find Business Support (FBS), existing 
 
 ## Beta Assessment Artefacts
 
-[Beta timeline](timeline/)
+[Research timeline](timeline/) covers both Discovery and Beta phase
+
 
 ### Research
 
