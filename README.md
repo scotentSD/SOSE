@@ -31,6 +31,5 @@ The new corporate website will supplement Find Business Support (FBS), existing 
 ### Customer journey
 - [See as a PDF](/images/SoSE-journeys5.pdf)
 
-[![customer journey via different channel as a tube map](https://scotentsd.github.io/SOSE/images/SoSE-journeys5.png)](SoSE-journeys5.png)
+[![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)](https://scotentsd.github.io/sose/images/SoSE-journeys5.png)
 
-[![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality](/images/designing-for-diversity-thumbnail.jpg)](https://scotentsd.github.io/a11y/images/designing-for-diversity.jpeg) 
