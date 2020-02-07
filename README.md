@@ -31,6 +31,8 @@ _The new corporate website will supplement [Find Business Support](https://www.f
 
 - **Customer needs**
 
+(work in progress)
+
 ### Customer journey
 - [See as a PDF](/images/SoSE-journeys5.pdf)
 
