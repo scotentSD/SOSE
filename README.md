@@ -1,5 +1,8 @@
 
-# Private Beta (Under construction)
+# Private Beta 
+<br>
+<span class="lou-y">(Under construction)</span>
+
 
 ## Vision
 
@@ -34,3 +37,5 @@ The new corporate website will supplement Find Business Support (FBS), existing 
 
 [![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)](https://scotentsd.github.io/SOSE/images/SoSE-journeys5.png)
 
+<br>
+<div>Last updated: {{site.time | date_to_string}}</div>
