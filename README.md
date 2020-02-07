@@ -31,5 +31,5 @@ The new corporate website will supplement Find Business Support (FBS), existing 
 ### Customer journey
 - [See as a PDF](/images/SoSE-journeys5.pdf)
 
-[![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)](https://scotentsd.github.io/sose/images/SoSE-journeys5.png)
+[![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)](https://scotentsd.github.io/SOSE/images/SoSE-journeys5.png)
 
