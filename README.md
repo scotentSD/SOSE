@@ -1,38 +1,34 @@
 
-# Jekyll for Github Pages
+# Private Beta (Under construction)
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
-**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+## Vision
 
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependencies like markdown processors, Pygments, etc
-- If you're on Windows, this will make setting up Jekyll a lot easier
-- It's easy to try out, you can just delete your forked repository if you don't like it
+South of Scotland Enterprise (SOSE) is a new Agency that will **launch on 1st April.** 
 
-- [Read more about Jekyll](jekyll)
-- [Read this excellent Jekyll Cheatsheet when you ar eready](https://devhints.io/jekyll)
+It will maximise the area’s contribution to Scotland’s inclusive growth, supporting a diverse and resilient economy. Its objectives include:
+- Sustaining and growing communities by joining up economic and community support
+- Capitalising on people and resources by developing skills, promoting assets and resources and maximising the impact of investment in the area
 
-# Markdown
-**Markdown** is a super simple way of creating structured content
-You edit a Markdown file such as **readme.md** using teh following syntax:
+This page is about the design of a corporate website to raise awareness of SOSE and support the Agency’s objectives.
 
-- **```#```**   symbol for top level heading.
-- **```##```**   for second level heading.
-- **```###```**   for tertiary heading.
-- **```-```**   symbol for a list item.
-- **```[name of link](url of link)```** to create links.
-- Put files in a **```/files```** folder off of the root of each repository.
-- Reference them with links like: **```[personas](/files/personas.pdf)```**.
-- When you update anything you will have to **Commit** it to the **Repository**.
-- At the bottom of whatever you are editing you will see a **Commit Changes** section. Use this to **Commit Changes**. This will be greyed out until any changes are made.
+The new corporate website will supplement Find Business Support (FBS), existing partner websites and other Scottish websites.
 
+## Beta Assessment Artefacts
 
+[Beta timeline](timeline/)
 
+### Research
 
-[Bais cMarkdown Primer](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- **Personas** (work in progress)
+    - Content manager
+    - Customers
+    - Jobseeker
+    - Journalist
+    - Local public
 
-# Jekyll Blog stuff
-These sites use the blog post functionality primarily to create a timeline.
+- **Customer needs**
 
-- [Read more about Blog & Post code](blog)  
+### Customer journey
+- [See as a PDF](/images/SoSE-journeys5.pdf)
+(
+[![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)]
