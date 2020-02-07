@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: Github Pages Resources
-description: Code, HowTo, Help etc...
+title: South of Scotland Enterprise
+description: Corporate website
 excerpt_separator: "<!--more-->"
-baseurl: "/resources/"
+baseurl: "/sose/"
