@@ -10,7 +10,7 @@ _This page is about the design of a corporate website to raise awareness of SOSE
 _The new corporate website will supplement [Find Business Support](https://www.findbusinesssupport.gov.scot/) (FBS), existing partner websites and other Scottish websites._
 
 
-## Note
+## Notes
 - Discovery phase in October- December 2019
 - There was **no Alpha phase**. We started directly on a private Beta phase in January 2020.
 - There is an interim partnership: the **South of Scotland Economic Partnership (SoSEP)** [with a live website](https://www.sosep.co.uk/site/index.php)
