@@ -7,7 +7,7 @@
 ## Vision
 _South of Scotland Enterprise (SOSE) is a new Agency that will **launch on 1st April.**_
 _This page is about the design of a corporate website to raise awareness of SOSE and support the Agency’s objectives._
-_The new corporate website will supplement [Find Business Support](https://www.findbusinesssupport.gov.scot/) (FBS), existing partner websites and other Scottish websites._
+_The new corporate website will supplement [**Find Business Support**](https://www.findbusinesssupport.gov.scot/) (FBS), existing partner websites and other Scottish websites._
 
 
 ## Notes
@@ -33,7 +33,7 @@ _The new corporate website will supplement [Find Business Support](https://www.f
 
 (work in progress)
 
-### Customer journey
+### Customer journeys
 - [See as a PDF](/images/SoSE-journeys5.pdf)
 
 [![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)](https://scotentsd.github.io/SOSE/images/SoSE-journeys5.png)
