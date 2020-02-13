@@ -1,8 +1,6 @@
 
 # Private Beta 
 <br>
-<span class="lou-y">(07/02/20: Under construction)</span>
-
 
 ## Vision
 _South of Scotland Enterprise (SOSE) is a new Agency that will **launch on 1st April.**_
@@ -17,28 +15,30 @@ _The new corporate website will supplement [**Find Business Support**](https://w
 
 ## Beta Assessment Artefacts
 
-[**Research timeline**](timeline) covers both Discovery and Beta phase (under construction)
+[**Research timeline**](timeline) covers both Discovery and Beta phase
 
 
 ### Research
 
 - **Personas** (work in progress)
-    - Content manager
-    - Customers
+    - Comms manager
+    - 4 Customers
     - Jobseeker
-    - Journalist
-    - Local public
+    - Inward investor
+ 
 
 - **Customer needs**
-
 (work in progress)
+
+- [**Ethic Plan**](files/SoSE Ethics Plan.pdf) (PDF)
 
 ### Customer journeys
 - [See as a PDF](/images/SoSE-journeys5.pdf)
 
 [![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)](https://scotentsd.github.io/SOSE/images/SoSE-journeys5.png)
 
-### Style guide
+### Style guide and Branding guidelines
+- [Branding guidelines](files/South of Scotland Enterprise - Brand guidelines-v2.pdf) (PDF - 8.35 MB)
 
 [![Style guide with colours, fonts, and some example of components like icons or inputs and buttons](/files/style guide.png)](https://scotentsd.github.io/SOSE/files/style guide.png)
 
