@@ -20,7 +20,7 @@ _The new corporate website will supplement [**Find Business Support**](https://w
 
 ### Research
 
-#### [Personas](files/SOSE Personas - v1.pdf) (PDF)
+* [Personas](files/SOSE Personas - v1.pdf) (PDF)
 
     - [Comms manager](files/SoSE - staff-comms-manager.jpg) (jpg)
     - [Jobseeker](files/SoSE - other-job-seeker.jpg) (jpg)
@@ -34,10 +34,10 @@ _The new corporate website will supplement [**Find Business Support**](https://w
     - [starting a business](files/SoSE - customer-starting-a-business.jpg) (jpg)
  
 
-#### Customer needs**
+* **Customer needs**
 (work in progress)
 
-#### [**Ethic Plan**](files/SoSE Ethics Plan.pdf) (PDF)
+* [**Ethic Plan**](files/SoSE Ethics Plan.pdf) (PDF)
 
 ### Customer journeys
 - [See as a PDF](/images/SoSE-journeys5.pdf)
