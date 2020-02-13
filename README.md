@@ -20,11 +20,15 @@ _The new corporate website will supplement [**Find Business Support**](https://w
 
 ### Research
 
-- **Personas** (work in progress)
-    - Comms manager
+- [**Personas**](files/SOSE Personas - v1.pdf) (PDF)
+    - [Comms manager](files/SoSE - staff-comms-manager.jpg) (jpg)
+    - [Jobseeker](files/SoSE - other-job-seeker.jpg) (jpg)
+    - [Inward investor](files/SoSE - other-inward-investor.jpg) (jpg)
     - 4 Customers
-    - Jobseeker
-    - Inward investor
+        - [account managed company](files/SoSE - customer-account-managed.jpg) (jpg)
+        - [community enterprise](files/SoSE - customer-community- enterprise.jpg) (jpg)
+        - [small business](files/SoSE - customer-small-business.jpg) (jpg)
+        - [starting a business](files/SoSE - customer-starting-a-business.jpg) (jpg)
  
 
 - **Customer needs**
