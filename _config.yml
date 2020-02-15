@@ -2,4 +2,5 @@ theme: jekyll-theme-slate
 title: South of Scotland Enterprise
 description: A corporate website
 excerpt_separator: "<!--more-->"
+url: https://scotentSD.github.io
 baseurl: "/SOSE"
