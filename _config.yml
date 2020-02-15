@@ -3,5 +3,5 @@ title: South of Scotland Enterprise
 description: A corporate website
 excerpt_separator: "<!--more-->"
 baseurl: "/SOSE"
-plugins:
-  - jekyll-relative-links
+plugins: - jekyll-relative-links
+version: v1.2.0
