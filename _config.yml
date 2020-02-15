@@ -3,7 +3,7 @@ title: South of Scotland Enterprise
 description: A corporate website
 excerpt_separator: "<!--more-->"
 baseurl: "/SOSE"
-
+permalink: /:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0
 plugins:
