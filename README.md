@@ -35,15 +35,14 @@ _The new corporate website will supplement [**Find Business Support**](https://w
  
 
 * **Customer needs**
->
->(work in progress)
+>- [See as a PDF](/files/SoSE - User needs for the website - 17-02-2020.pdf) the user needs found on the 17/02/2020
 
 * [**Ethic Plan**](files/SoSE Ethics Plan.pdf) (PDF)
 
 ### Customer journeys
-- [See as a PDF](/images/SoSE-journeys5.pdf)
+- [See as a PDF](/files/SoSE-journeys7.pdf)
 
-[![customer journey via different channel as a tube map](/images/SoSE-journeys5.png)](https://scotentsd.github.io/SOSE/images/SoSE-journeys5.png)
+[![customer journey via different channel as a tube map](/images/SoSE-journeys7.png)](https://scotentsd.github.io/SOSE/images/SoSE-journeys7.png)
 
 ### Style guide and Branding guidelines
 - [Branding guidelines](files/South of Scotland Enterprise - Brand guidelines-v2.pdf) (PDF - 8.35 MB)
