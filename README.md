@@ -35,8 +35,7 @@ _The new corporate website will supplement [**Find Business Support**](https://w
  
 
 * **Customer needs**
->- [See as a PDF](/files/SoSE - User needs for the website - 17-02-2020.pdf) User needs for the website found on the 17/02/2020
->- [See as a PDF](/files/SoSE - Aggregated user needs for the website - 20-02-2020.pdf) Aggregated user needs after the research with communities on the 19 and 20/02/2020
+>- [See as a PDF](/files/SoSE - Aggregated user needs for the website - 27-02-2020.pdf) Aggregated user needs after the research with communities on the 19, 20 and 26/02/2020
 
 * [**Ethic Plan**](files/SoSE Ethics Plan.pdf) (PDF)
 
