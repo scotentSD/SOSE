@@ -1,17 +1,20 @@
 
-# Private Beta 
+# Private Beta (Jan - Mar 2020)
 <br>
 
+## The website is now live
+[Visit the live website](https://www.southofscotlandenterprise.com/)
+
 ## Vision
-_South of Scotland Enterprise (SOSE) is a new Agency that will **launch on 1st April.**_
-_This page is about the design of a corporate website to raise awareness of SOSE and support the Agency’s objectives._
-_The new corporate website will supplement [**Find Business Support**](https://www.findbusinesssupport.gov.scot/) (FBS), existing partner websites and other Scottish websites._
+_[**South of Scotland Enterprise**](https://www.southofscotlandenterprise.com/) (SOSE) is a new Agency launched on 1st April 2020._
+_This page is about the design of the corporate website to raise awareness of SOSE and support the Agency’s objectives._
+_The new corporate website supplements [**Find Business Support**](https://www.findbusinesssupport.gov.scot/) (FBS), existing partner websites and other Scottish websites._
 
 
 ## Notes
 - Discovery phase in October- December 2019
 - There was **no Alpha phase**. We started directly on a private Beta phase in January 2020.
-- There is an interim partnership: the **South of Scotland Economic Partnership (SoSEP)** [with a live website](https://www.sosep.co.uk/site/index.php)
+- There was an interim partnership: the [**South of Scotland Economic Partnership**](https://www.sosep.co.uk) (SoSEP)
 
 ## Beta Assessment Artefacts
 
